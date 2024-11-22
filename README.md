@@ -2,7 +2,7 @@
 
 This project contains a Taskfile.yaml used to automate the deployment and management of Kubernetes clusters across multiple platforms including Civo, Google Cloud Platform (GCP), and Kubernetes in Docker (KinD). The Taskfile defines tasks for network, firewall, and cluster creation, as well as cleanup and configuration tasks. 
 
-![](./readme-assets/kubernetes-logo.png)
+![](./readme-assets/kubernetes-logo-k8s.png)
 
 ## Key Features 
 - Authentication and setup of CLI tools for Civo and GCP.
