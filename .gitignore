@@ -1,1 +1,6 @@
+bin/
+**/.DS_STORE
+.devbox/
+devbox.lock
+
 kind-config.yaml
